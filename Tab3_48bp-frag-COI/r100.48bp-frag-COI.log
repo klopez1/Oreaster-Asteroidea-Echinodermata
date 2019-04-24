@@ -1,0 +1,72 @@
+Outgroup is taxon 0  -  U50054_Parvulastra_vivipara 
+Space for 2000 trees in memory 
+ 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+100   FUSE     100           ------      ------       0:00:00    7,421,394     
+Completed search.
+Total rearrangements examined: 7,421,394. 
+No target score defined.  Best score hit 1 times.
+Best score: 19.  1 trees retained. 
+Taxon names is ON 
+Tree file: r100.QH_411_COI.mafft.barcode.tre 
+1 trees saved to r100.QH_411_COI.mafft.barcode.tre           
+Closing r100.QH_411_COI.mafft.barcode.tre (with 1 trees saved)
+Selecting tree(s) 0,  
+1 trees selected 
+Tree file: t0.QH_411_COI.mafft.barcode.tre 
+1 trees saved to t0.QH_411_COI.mafft.barcode.tre           
+Closing t0.QH_411_COI.mafft.barcode.tre (with 1 trees saved)
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+Selecting tree(s) 1,  
+1 trees selected 
+Tree file: nelsen.QH_411_COI.mafft.barcode.tre 
+1 trees saved to nelsen.QH_411_COI.mafft.barcode.tre           
+Closing nelsen.QH_411_COI.mafft.barcode.tre (with 1 trees saved)
+ 
+Tree 0: 
+   ,-- U50054_Parvulastra_vivipara
+   |  ,-- U50053_Parvulastra_exigua
+   |  |     ,-- Oreaster_reticulatus_FSBC_I_135
+   |  |     |-- Oreaster_reticulatus_FSBC_I_135
+|--|  |     |-- U50060_Oreaster_reticulatus
+   |  |  ,--+-- KP638326_Oreaster_reticulatus_v
+   |  |  |  |-- FWRI_I_00003_115738_Oreaster_re
+   `--|  |  `-- FWRI_I_00001_092405_Oreaster_re
+      |  |     ,-- KP638324_Oreaster_clavatus_vouc
+      |  |     |-- Tube5_Oreaster_clavatus_tRNAs_C
+      |  |  ,--+-- Tube4_Oreaster_clavatus_tRNAs_C
+      |  |  |  `-- Tube3_Oreaster_clavatus_tRNAs_C
+      `--|  |     ,-- AY249973_Valvatida_sp_1_EK_2003
+         |  |     |-- AY249972_Valvatida_sp_1_EK_2003
+         |  |     |-- AY249971_Valvatida_sp_1_EK_2003
+         |  |     |-- AY249970_Valvatida_sp_1_EK_2003
+         |  |     |-- AY249969_Valvatida_sp_1_EK_2003
+         |  |     |-- AY249968_Valvatida_sp_1_EK_2003
+         `--|  ,--+-- AY249967_Valvatida_sp_1_EK_2003
+            |  |  |-- AY249950_Valvatida_sp_1_EK_2003
+            |  |  |-- AY249949_Valvatida_sp_1_EK_2003
+            |  |  |-- AY249948_Valvatida_sp_1_EK_2003
+            |  |  |  ,-- AY249974_Valvatida_sp_1_EK_2003
+            |  |  `--|  ,-- AY249966_Valvatida_sp_1_EK_2003
+            |  |     `----- AY249965_Valvatida_sp_1_EK_2003
+            |  |  ,-- Oreaster_sp_ICML_UNAM_18241_FM0
+            `--|  |-- KP638323_Oreasteridae_sp_NCY4
+               |  |-- KP638322_Oreasteridae_sp_NCY3
+               |  |-- KP638321_Oreasteridae_sp_NCY2
+               |  |-- KP638320_Oreasteridae_sp_NCY1
+               |  |-- KP638319_Oreasteridae_sp_C9
+               |  |-- KP638318_Oreasteridae_sp_C8
+               |  |-- KP638317_Oreasteridae_sp_C7
+               `--+-- KP638316_Oreasteridae_sp_C6
+                  |-- KP638315_Oreasteridae_sp_C5
+                  |-- KP638314_Oreasteridae_sp_C4
+                  |-- KP638313_Oreasteridae_sp_C3
+                  |-- KP638311_Oreasteridae_sp_C11
+                  |-- KP638310_Oreasteridae_sp_C10
+                  |-- KP638309_Oreasteridae_sp_C1
+                  |-- QH_411_Oreaster_sp_tRNAS_COI
+                  `-- Larva_Oreaster_sp_tRNAs_COI
+ 
